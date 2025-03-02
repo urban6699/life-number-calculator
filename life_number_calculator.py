@@ -3,6 +3,8 @@ import os
 import tkinter as tk
 from tkinter import ttk, scrolledtext, messagebox
 import sys
+from http.server import BaseHTTPRequestHandler
+import json
 
 class Colors:
     """

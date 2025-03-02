@@ -1,0 +1,1 @@
+([('生命靈數計算器', '/Users/chinweichen/Documents/life/dist/生命靈數計算器', 'EXECUTABLE')],)
